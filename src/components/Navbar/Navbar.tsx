@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { User } from "../../types/user";
-import { FiUsers, FiCpu, FiTarget, FiMenu, FiX } from "react-icons/fi";
+import { FiUsers, FiCpu, FiTarget, FiMenu } from "react-icons/fi";
 import { RiInboxLine } from "react-icons/ri";
 import { PiNetworkFill } from "react-icons/pi";
 import { IoSettingsOutline } from "react-icons/io5";
